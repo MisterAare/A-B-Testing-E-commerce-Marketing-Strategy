@@ -1,7 +1,7 @@
 # A/B-Testing-E-commerce-Marketing-Strategy
 
 # Project Overview
-For this project, I delve into the essence of A/B Testing for an E-commerce marketing campaign dataset. My analysis delves deep, comparing the two marketing strategies carried out. Furthermore, I explored the effectiveness of diverse marketing campaigns to make a data-driven result.
+For this project, I delve into the essence of A/B Testing for an E-commerce marketing campaign to choose the best one for future marketing campaigns. My analysis delves deep, comparing the two marketing strategies carried out. Furthermore, I explored the effectiveness of diverse marketing campaigns to make data-driven decisions.
 
 # Importing Essential Python Libraries and Datasets
 In this section, I imported vital Python libraries (Pandas, matplotlib, seaborn, DateTime) and the Control Campaign and Test Campaign dataset that will serve as the bedrock of my A/B Testing. This initial groundwork is crucial as it sets the stage for the insightful exploration that lies ahead.
